@@ -20,4 +20,5 @@
   * [Implementation](untitled-3/implementation.md)
   * [Effect of confine people](untitled-3/effect-of-confine-people.md)
   * [Test and isolation strategies](untitled-3/test-and-isolation-strategies.md)
+* [Go further: Real data input](go-further-real-data-input.md)
 
