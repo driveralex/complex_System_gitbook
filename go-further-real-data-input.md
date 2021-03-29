@@ -161,3 +161,9 @@ You can now include data into your simulation and try to predict the future of p
 
  Graph network simulation is great way to modelized complex phenomena. Creating a network and perform simulation on it is simple and fun. Moreover, working with nodes attributes make the developpement flexible and allow you to improve the model incrementally and to infinity. The only limits you will met is the time you have to create the model, the computing power you have \( It is therefore necessary to optimize the algorithms or the code\) and the quality of the data you will use as inputs.
 
+
+
+A faire : Comparé l’effet des confinements avec la limite de percolation \(immunité collective, surtout avec les multiples confinements\)
+
+Mettre plus en avant les resultats..
+
