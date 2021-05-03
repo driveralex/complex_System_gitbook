@@ -1,7 +1,3 @@
----
-description: '“If facts don’t fit the theory, change the facts.”– Albert Einstein'
----
-
 # Influenceing scenarios
 
 With a scale free graph of 501 nodes \(to avoid Deuce\), $$k = 3$$, $$m = 2$$, and for simulation of $$0.01$$ noise and $$time = 3000$$, we will try to influence the vote. We will work in Jerry's Team.
